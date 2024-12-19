@@ -24,6 +24,15 @@
 
 ![Безымянный](https://github.com/user-attachments/assets/8693f255-2e6a-48de-a20e-23703b2e4cdf)
 
+# Использование бота
+
+1) Перейти в диалог с ботом https://t.me/ml_iad24_bot
+2) Отправить команду /start
+3) Выбрать язык на предложенной клавиатуре
+![image](https://github.com/user-attachments/assets/c02464f0-6268-4654-8de1-9e045c1cd4ca)
+4) Отправить картинку с текстом на выбранном языке
+
+
 
 
 
